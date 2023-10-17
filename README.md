@@ -28,3 +28,24 @@ These instructions will help you get a copy of the project up and running on you
     ```shell
     git clone https://github.com/abpun/noteapp.git
     ```
+
+2. Navigate to project directory:
+
+    ```shell
+    cd noteapp
+    ```
+
+3. Install dependencies:
+   install dependencies on both frontend and backend folder
+
+    ```shell
+    npm install
+    ```
+
+4. Start Development server
+
+    ```shell
+    npm start
+    ```
+
+5. Visit `http://localhost:3000` in your web browser to use the app.
