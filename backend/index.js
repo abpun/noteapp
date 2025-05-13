@@ -22,6 +22,6 @@ app.get("/", (req, res) => {
     res.json({ message: "hello" });
 });
 
-app.listen(5000, () => {
-    console.log("Listening");
+app.listen(3000, () => {
+    console.log("Listening port 3000");
 });
